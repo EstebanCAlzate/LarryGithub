@@ -1,0 +1,7 @@
+ - Larry PLotter y El Bucle Filosofal
+ - Larry Plotter y La Clave Secreta del Wifi
+ - Larry Plotter y El prisionero del Firewall
+ - Larry Plotter y El Malware de Fuego
+ - Larry Plotter y La orden de Unix
+ - Larry Plotter y El misterio del Hacker
+ - Larry Plotter y Los Comits de la Muerte
